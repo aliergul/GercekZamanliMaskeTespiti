@@ -1,0 +1,8 @@
+item { 
+	name:'MaskeVar'
+	id:1
+}
+item { 
+	name:'MaskeYok'
+	id:2
+}

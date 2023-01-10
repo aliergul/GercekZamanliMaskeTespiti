@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>mask07.jpg</filename>
+	<path>C:\MaskProject\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\mask07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MaskeVar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>199</ymin>
+			<xmax>521</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

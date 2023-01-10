@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>mask10.png</filename>
+	<path>C:\MaskProject\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\mask10.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>634</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MaskeVar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>126</ymin>
+			<xmax>536</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>noMask11.jpg</filename>
+	<path>C:\MaskProject\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\noMask11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MaskeYok</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>276</ymin>
+			<xmax>474</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
